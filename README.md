@@ -43,7 +43,7 @@ Also for writing your own testcases, instead of running "go run tester.go", inst
 - Reads can only be from the primary. This guarantees that all operations will go through same buffer on the primary and keep their order of execution
 
 ## File Division
-This system was split into three separate source files, they are described below:
+This system was split into four separate source files, they are described below:
 
 ### worker.go
 
@@ -69,6 +69,10 @@ This system was split into three separate source files, they are described below
 - All clients and workers (primary or replicas) must be initialized before running any tests
 - This file will parse init.txt in the ./input\_files directory
 - See the section "init.txt expected syntax" for more information
+    
+### utilities.go
+
+- Contains methods common to workers, clients, and tester
 
 
 # Testing
