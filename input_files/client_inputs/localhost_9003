@@ -1,0 +1,3 @@
+wait 12
+get x 0
+exit

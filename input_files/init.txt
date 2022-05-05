@@ -1,0 +1,13 @@
+consistency
+eventual
+primary
+localhost:9000
+tester
+localhost:8999
+replicas
+localhost:9001
+localhost:9004
+clients
+localhost:9002
+localhost:9003
+localhost:9005

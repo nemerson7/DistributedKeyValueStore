@@ -1,0 +1,4 @@
+set x 12
+get x
+wait 10
+exit
