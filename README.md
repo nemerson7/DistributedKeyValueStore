@@ -13,8 +13,7 @@ Please email me if these links aren't working, but they should be.
 
 
 # Dependencies:
-The only dependency is a minimum Go version of 1.16. If the version is less than 1.16, this will not work.
-I tested this on a machine running MacOS Monterrey and Ubuntu 20.04. All 6 test cases pass on both
+The only dependency is a minimum Go version of 1.16
 
 
 # Manually running workers and clients
