@@ -6,8 +6,6 @@ This was created as a final project for Prateek Sharma's Distributed Systems cla
 
 # Demo videos:
 
-Please email me if these links aren't working, but they should be.
-
 - Test Suite Demo: https://youtu.be/18UFN4VVdLk
 - Eventual Consistency Demo: https://youtu.be/sx5seFXab_4
 - Linearizable Demo: https://youtu.be/ZwuKUjcocTE
