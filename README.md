@@ -1,6 +1,5 @@
 
-Author: Nick Emerson (nemerso@iu.edu)
-Due: May 3rd, 2022
+Author: Nick Emerson 
 
 
 # Demo videos:
