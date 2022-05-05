@@ -1,6 +1,8 @@
 
 Author: Nick Emerson 
 
+# Note:
+This was created as a final project for Prateek Sharma's Distributed Systems class offered at IU. If the reader of this happens to be a student working on an assignment, you absolutely do not have permission to use this repository to help with your assignment 
 
 # Demo videos:
 
